@@ -1,6 +1,6 @@
 # miniRouge
 
-This an implmentation of a stripped down version of the open-source unix game Rouge built as a project for my Data Structure and Algorithm's course
+This an implementation of a stripped down version of the open-source UNIX game Rouge built as a project for my Data Structure and Algorithm's course
 
 `game_code` folder contains all the game code (utilities.{h,cpp} were provided by the instructors, all other files are written by me) 
 
